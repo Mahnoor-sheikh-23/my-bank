@@ -5,8 +5,8 @@
   get started with managing your finances efficiently.✅ </i></p>
   <h1><b><i>Getting Started 💡 </i></b></h1>
 <p><i>Firstly you have to give us your information regarding our need then we will give you a pin code and through that pin code you can</br>
-  Crdeit,Debit,Show Balanceand after all this you can exit from your account📍  </i></p>
-  <h1><b><i>Security Information 🎯 </i>/b></h1>
+  Crdeit,Debit,Show Balanced after all this you can exit from your account📍  </i></p>
+  <h1><b><i>Security Information 🎯 </i></b></h1>
   <p><i>In My Bank , we prioritize the security of your personal and financial information. We utilize a pin code for you which is specificly create for you so</br>
    Rest assured that your privacy and security are our top priorities🤝 .</i></p>
    <h1><b><i>Feedback and Contributions 🗳️ </i></b></h1>
